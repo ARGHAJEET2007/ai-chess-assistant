@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Stockfish executable
+stockfish/*.exe
+
+# Virtual environment
+.venv/
